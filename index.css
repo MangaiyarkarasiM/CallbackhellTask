@@ -1,0 +1,16 @@
+html,body{
+    text-align: center;
+    height: 100%;
+}
+
+.content{
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: linear-gradient( rgb(255, 94, 0),white,green);
+    height: 100%;
+}
+
+p{
+    padding: 80px;
+    display: inline-block;
+}
